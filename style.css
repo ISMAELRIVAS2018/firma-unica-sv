@@ -1,0 +1,13 @@
+/* Colors */
+
+:root {
+    --light-color: #ffffff;
+    --dark: #16191c
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: var(--dark);
+}
